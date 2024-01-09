@@ -1,6 +1,6 @@
 # COVID
 
-Uncover Insights, Visualize Impact: Analyzing COVID-19 Data with Python
+Covid Python Project - Uncover Insights, Visualize Impact: Analyzing COVID-19 Data with Python
 
 ## Table of Contents
 
